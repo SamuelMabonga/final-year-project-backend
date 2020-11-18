@@ -1,5 +1,5 @@
-# EDU Q & A PLATFORM BY TEAM KIA
-This is an EDU-API for the EDU Q&A platform where people can ask questions and answer questions.
+# FINAL YEAR PROJECT BACKEND
+Backend of my final year project at Makerere University, Department of Agricultural Engineering.
 
 ## Tech Stack <br>
 - Node.js
@@ -51,6 +51,4 @@ https://app.swaggerhub.com/apis-docs/SamuelMabonga/Edu-Question-Api-KIA/1.0.0#/
 ## Contributors
 
 - Mabonga Samuel
-- Nabasirye Loyce
-- Nalubwama Mastullah
 
