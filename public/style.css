@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../snow.gif");
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+#container ul{
+    list-style: none;
+}
+#container ul li{
+    background-color: rgb(15, 129, 4);
+    width: 150px;
+    border: 1px solid white;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    float: left;
+    color: white;
+    font-size: 16px;
+    position: relative;
+}
+#container ul li:hover{
+    background-color: rgb(240, 85, 13);
+}
+#container ul ul{
+  display: none;
+}
+#container ul li:hover> ul{
+    display: block;} 
+#container ul ul ul{
+  margin-left: 150px;
+  top: 0px;
+  position: absolute;
+}
+#container ul li a{
+ color: white;
+    font-size: 16px;
+    position: relative;
+}
